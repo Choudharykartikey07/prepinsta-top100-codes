@@ -30,6 +30,9 @@ int main()
       if(flag==1)
         cout<<i<<" ";
     }
+  
+  //shieve method
+  
   /*int n1,n2,i,j;
   cin>>n1>>n2;
   vector<string> shieve;
